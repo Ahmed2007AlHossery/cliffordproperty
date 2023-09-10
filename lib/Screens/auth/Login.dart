@@ -125,6 +125,7 @@ class _LoginState extends State<Login> with Nav_Helper {
                               });
                             }),
                         actionType: TextInputAction.done,
+                        maxLines: 1,
                       ),
                       SizedBox(height: 8.h),
                     ],
