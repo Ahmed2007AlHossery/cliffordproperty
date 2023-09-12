@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910182017099",
+    "project_id": "final-project-5bf25",
+    "storage_bucket": "final-project-5bf25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910182017099:android:10af3d9bb814e45eac45ce",
+        "android_client_info": {
+          "package_name": "tech.ahmed.zaeem.cliffordproperty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWtqyuiPEvs3an28CzqkyxbZeC0Dyoyrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
